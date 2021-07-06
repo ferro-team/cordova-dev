@@ -15,7 +15,6 @@ YYYY-MM-DD-Name-of-content
 ```
 
 2. จัดรูปแบบคอนเท้นต์ด้วย Markup Languege แบบเดียวกับที่ใช้เขียน Readme.md ใน github นั่นล่ะ โดยมีโครงสร้างแบบนี้
-
 ```
 ---
 layout: post
