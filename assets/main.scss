@@ -3,8 +3,8 @@
 @import "minima";
 
 .site-header {
-  background: linear-gradient(90deg, navy 35%, blue 98%, transparent 100%);
-  padding: 30px;
+  background: linear-gradient(90deg, #283048 85%, #e8e8e8);
+  padding: 5px;
 }
 
 .site-title, .site-title:visited {
@@ -12,6 +12,10 @@
 }
 
 .site-nav .page-link {
-    color: #fff;
+    color: lightgrey;
     line-height: 1.5;
+}
+
+.site-nav .menu-icon {
+  background: #e8e8e8;
 }
