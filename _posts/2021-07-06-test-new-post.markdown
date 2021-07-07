@@ -13,7 +13,7 @@ tags: ["Jekyll", "Post"]
 ๑ สร้างไฟล์ใหม่ขึ้นมาในโฟลเดอร์ _posts โดยให้มีชื่อไฟลเป็นรูปแบบดังนี้
 
 ```
-YYYY-MM-DD-content-title
+YYYY-MM-DD-content-title.markdown
 ```
 
 ๒ จัดรูปแบบคอนเท้นต์ด้วย Markup Languege แบบเดียวกับที่ใช้เขียน Readme.md ใน [github](https://github.com/) นั่นล่ะ โดยมีโครงสร้างแบบนี้
