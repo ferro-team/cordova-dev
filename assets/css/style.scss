@@ -1,7 +1,13 @@
 ---
 ---
-@import 'minima';
+
+// @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+// @import "minima/initialize";
+@import "minima";
+
 
 .site-header {
-  background: linear-gradient(to right, blue, white);
+   background: linear-gradient(
+45deg
+, black, transparent);
 }
