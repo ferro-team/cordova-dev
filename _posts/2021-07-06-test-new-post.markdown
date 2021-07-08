@@ -3,7 +3,7 @@ layout: post
 title: Add new post with Jekyll
 date:   2021-07-06 13:25:50 +0700
 categories: jekyll update
-tags: ["Jekyll", "Post"]
+tags: Jekyll Post
 ---
 
 **วิธีสร้างโพสต์ใหม่ใน Jekyll**
@@ -21,7 +21,7 @@ YYYY-MM-DD-content-title.markdown
 ```
 ---
 layout: post
-title: name-of-content
+title: content-title
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: categories-title
 ---
@@ -29,4 +29,4 @@ categories: categories-title
 เนื้อหาคอนเท้นต์...
 ```
 
-๓ เขียนคอนเท้นต์ให้เสร็จ แล้วก็ publish ขึ้น [github pages](https://pages.github.com/) รอสัก 30 วินาที ก็สามารถเรียกดูโพสต์ที่สร้างใหม่ได้แล้ว
+๓ เขียนคอนเท้นต์ให้เสร็จ แล้วก็ publish ขึ้น [github pages](https://pages.github.com/) รอสักครู่หนึ่ง ก็สามารถเรียกดูโพสต์ที่สร้างใหม่ได้แล้ว
