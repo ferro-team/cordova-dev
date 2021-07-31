@@ -5,6 +5,7 @@ title: แสดงความคิดเห็นในบล็อก Jekyll
 date:   2021-07-07 11:05:50 +0700
 categories: jekyll update
 tags: Jekyll Comment github issue api API
+comments_id: 1
 ---
 ๑. ใส่ variable ใน public repo ที่ต้องการให้แสดงความคิดเห็น ในไฟล์ <code>../blog-name/_config.yml</code>
 ```

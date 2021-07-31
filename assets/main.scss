@@ -24,6 +24,21 @@
   border-radius: 5px;
 }
 
-pre, code {
+.comment-actions {
+  padding: 20px;
+}
 
+.btn-comment {
+  width: 120px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.comment-body {
+  background: #e7e7e7;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+  min-height: 70px;
 }

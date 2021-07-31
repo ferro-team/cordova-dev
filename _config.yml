@@ -30,6 +30,7 @@ baseurl: "/cordovastudy" # the subpath of your site, e.g. /blog
 url: "https://ferro-team.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: none
 github_username:  Komsan74
+issues_repo: ferro-team/cordovastudy
 
 # Build settings
 theme: minima
